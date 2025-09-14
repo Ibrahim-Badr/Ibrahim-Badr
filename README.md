@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ibrahim!
+# 👋 Hi, I’m Ibrahim Badr!
 
 Transforming data into insights and building AI solutions that make an impact.  
 
